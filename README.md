@@ -16,10 +16,17 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=agrawalreetika&show_icons=true&hide_border=true&theme=github_light" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrawalreetika&layout=compact&hide_border=true&theme=github_light" height="160"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=agrawalreetika&show_icons=true&hide_border=true&theme=github_dark"
+    height="160"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrawalreetika&layout=compact&hide_border=true&theme=github_dark"
+    height="160"
+  />
 </p>
 
 ---
