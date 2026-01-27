@@ -32,7 +32,7 @@
 ---
 
 ### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=agrawalreetika&theme=onedark&no-frame=true&column=4&rank=SSS,SS,S,AAA,AA,A" />
+<img src="https://github-profile-trophy.vercel.app/?username=agrawalreetika&no-frame=true&margin-w=10" />
 
 ---
 
@@ -41,12 +41,6 @@
 - Query optimizers & cost-based planning
 - Native vs JVM execution engines
 - SQL standard compliance (identifier handling, metadata)
-
----
-
-### 🌐 Find me
-- 💼 LinkedIn: https://www.linkedin.com/in/reetikaagrawal/
-- 📄 GitHub Pages: https://agrawalreetika.github.io
 
 ---
 
