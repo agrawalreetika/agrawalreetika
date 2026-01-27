@@ -16,15 +16,23 @@
 
 ---
 
+### 🏅 Open-Source & Community
+
+![PrestoDB](https://img.shields.io/badge/PrestoDB-Contributor-0A7FFF?logo=apache&logoColor=white)
+![Apache Iceberg](https://img.shields.io/badge/Apache%20Iceberg-Contributor-6DB33F?logo=apache&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source-Active-brightgreen?logo=github)
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=agrawalreetika&show_icons=true&hide_border=true&theme=github_dark"
+    src="https://github-readme-stats.vercel.app/api?username=agrawalreetika&show_icons=true&hide_border=true&theme=github_light"
     height="160"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrawalreetika&layout=compact&hide_border=true&theme=github_dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrawalreetika&layout=compact&hide_border=true&theme=github_light"
     height="160"
   />
 </p>
@@ -39,8 +47,12 @@
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=agrawalreetika&label=Profile%20Views&color=blue&style=flat)
+
+---
+
 ### 🌐 Find me
-- 💼 LinkedIn: https://www.linkedin.com/in/reetika-agrawal/
+- 💼 LinkedIn: https://www.linkedin.com/in/reetikaagrawal/
 - 📄 GitHub Pages: https://agrawalreetika.github.io
 
 ---
