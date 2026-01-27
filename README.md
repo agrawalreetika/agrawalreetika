@@ -31,8 +31,8 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=agrawalreetika&no-frame=true&margin-w=10" />
+### 🏆 GitHub Achievements
+![Achievements](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agrawalreetika&theme=github_dark)
 
 ---
 
