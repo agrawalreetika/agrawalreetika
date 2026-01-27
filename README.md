@@ -36,12 +36,4 @@
 
 ---
 
-### 🧠 Recent Interests
-- Iceberg branching & tagging semantics
-- Query optimizers & cost-based planning
-- Native vs JVM execution engines
-- SQL standard compliance (identifier handling, metadata)
-
----
-
 ⭐ Always happy to collaborate on systems, databases, and open-source work.
