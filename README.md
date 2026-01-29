@@ -30,7 +30,6 @@
 
 ### 🏆 GitHub Achievements
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=agrawalreetika&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=agrawalreetika&theme=github_dark&utcOffset=5.5" />
 
 ---
 
