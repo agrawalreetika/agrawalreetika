@@ -24,16 +24,8 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=agrawalreetika&show_icons=true&hide_border=true&theme=github_dark&cache_seconds=86400"
-    height="160"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrawalreetika&layout=compact&hide_border=true&theme=github_dark"
-    height="160"
-  />
-</p>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agrawalreetika&theme=github_dark" />
 
 ---
 
