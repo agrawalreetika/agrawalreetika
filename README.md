@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Reetika
 
-💻 Systems & Data Engineer  
+💻 Software Engineer  
 🔍 Working on distributed query engines, data lakes & performance  
 🌱 Open-source contributor | PrestoDB, Iceberg ecosystem  
 📍 India
