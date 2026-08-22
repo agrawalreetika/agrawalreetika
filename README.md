@@ -17,7 +17,7 @@
 ---
 
 ### 🏅 Open-Source & Community
-![PrestoDB](https://img.shields.io/badge/PrestoDB-Contributor-0A7FFF?logo=apache&logoColor=white)
+![PrestoDB](https://img.shields.io/badge/PrestoDB-Committer-0A7FFF?logo=apache&logoColor=white)
 ![Apache Iceberg](https://img.shields.io/badge/Apache%20Iceberg-Contributor-6DB33F?logo=apache&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Active-brightgreen?logo=github)
 
